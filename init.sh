@@ -1,3 +1,6 @@
+rm -rf check 
+rm -rf covid-chestxray-dataset
+rm -rf data/*
 rm *~
 rm */*~
 rm */*/*~
