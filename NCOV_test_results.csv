@@ -1,5 +1,5 @@
 ,0,1,2
-auntminnie-a-2020_01_28_23_51_6665_2020_01_28_Vietnam_coronavirus.jpeg,other,tensor(1),"tensor([0.4748, 0.5252])"
-auntminnie-b-2020_01_28_23_51_6665_2020_01_28_Vietnam_coronavirus.jpeg,covid,tensor(0),"tensor([0.7757, 0.2243])"
-auntminnie-c-2020_01_28_23_51_6665_2020_01_28_Vietnam_coronavirus.jpeg,covid,tensor(0),"tensor([9.9913e-01, 8.6979e-04])"
-auntminnie-d-2020_01_28_23_51_6665_2020_01_28_Vietnam_coronavirus.jpeg,covid,tensor(0),"tensor([9.9953e-01, 4.7157e-04])"
+auntminnie-a-2020_01_28_23_51_6665_2020_01_28_Vietnam_coronavirus.jpeg,other,tensor(1),"tensor([0.0871, 0.9129])"
+auntminnie-b-2020_01_28_23_51_6665_2020_01_28_Vietnam_coronavirus.jpeg,covid,tensor(0),"tensor([0.6417, 0.3583])"
+auntminnie-c-2020_01_28_23_51_6665_2020_01_28_Vietnam_coronavirus.jpeg,covid,tensor(0),"tensor([0.9946, 0.0054])"
+auntminnie-d-2020_01_28_23_51_6665_2020_01_28_Vietnam_coronavirus.jpeg,covid,tensor(0),"tensor([0.9975, 0.0025])"
